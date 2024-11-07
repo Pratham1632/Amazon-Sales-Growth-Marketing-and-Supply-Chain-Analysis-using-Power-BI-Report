@@ -11,7 +11,7 @@ Finance View: Budget vs. actuals, profit margins, and forecasting.
 Executive View: High-level insights for strategic decision-making.
 
 Power BI File Download: 
-The Power BI report can be downloaded from this https://drive.google.com/file/d/1IZIbBFcI0_SN7Y-tLwb9MAN6x9rtOVsz/view.
+The Power BI report can be downloaded from this https://app.powerbi.com/view?r=eyJrIjoiNjVmMmZjYjItNjRmNy00OGUzLTk2NzEtYWJmMDg0YTFkOTM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Usage: 
 Open the .pbix file in Power BI Desktop to explore the interactive dashboard. Switch between Finance and Executive views to find relevant insights.
