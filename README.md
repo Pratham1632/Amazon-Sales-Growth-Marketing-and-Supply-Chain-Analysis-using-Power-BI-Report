@@ -1,6 +1,7 @@
 This repository contains a Power BI report (Amazon bi360.pbix) designed to provide an in-depth analysis of Amazon’s sales growth, marketing effectiveness, and supply chain performance. This interactive dashboard allows finance and executive teams to make data-driven decisions by offering insights into key metrics that impact Amazon’s business strategy and operational efficiency.
 
 Table of Contents
+
 Project Overview
 Features
 Key Metrics and Visualizations
@@ -15,10 +16,11 @@ Usage
 Technologies Used
 Contributing
 Project Overview
+
 This Power BI report delivers comprehensive insights into Amazon's sales performance, marketing campaigns, and supply chain metrics. The goal is to enable Amazon's finance and executive teams to quickly understand trends, evaluate marketing ROI, and address supply chain challenges, optimizing their operations for sustained growth.
 
 Features
-Sales Growth Analysis: Trend analysis of Amazon’s sales by time period, region, and customer demographic.
+Sales Growth Analysis: Trend analysis of Amazon’s sales by period, region, and customer demographic.
 Marketing Effectiveness: Key insights on marketing ROI and ad spend efficiency.
 Supply Chain Metrics: Measures supply chain performance to help optimize inventory, lead times, and fulfillment rates.
 Finance View: Provides financial metrics for budgeting, forecasting, and profit analysis.
@@ -59,7 +61,7 @@ Installation
 (https://drive.google.com/file/d/1IZIbBFcI0_SN7Y-tLwb9MAN6x9rtOVsz/view)
 
 Usage
-Open the downloaded Power BI file in Power BI Desktop. The dashboard is interactive, enabling users to filter data by category, date, region, and more, depending on the business need. The Finance View and Executive View tabs allow users to switch between detailed financial insights and a high-level overview suitable for decision-making.
+Open the downloaded Power BI file in Power BI Desktop. The interactive dashboard enables users to filter data by category, date, region, and more, depending on the business need. The Finance View and Executive View tabs allow users to switch between detailed financial insights and a high-level overview suitable for decision-making.
 
 Technologies Used
 Power BI: For data visualization and interactive dashboards
